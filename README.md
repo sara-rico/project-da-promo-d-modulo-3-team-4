@@ -3,7 +3,7 @@ DataVision - Retención de Talento
 Proyecto de análisis de datos realizado por el equipo DataVision con el objetivo de identificar los factores clave que influyen en la rotación de empleados y proponer soluciones estratégicas para mejorar la satisfacción y retención del talento en la empresa ficticia ABC Corporation.   
 
 ![image](https://github.com/user-attachments/assets/b1a6fa95-5e9e-4c9d-b2f2-578f9e1cde74)
- Objetivo del Proyecto
+ Objetivo del Proyecto   
 Analizar los datos proporcionados por ABC Corporation para:- Detectar patrones de rotación de empleados.
 - Identificar factores que influyen en la salida del personal.
 - Proponer medidas para retener el talento.
